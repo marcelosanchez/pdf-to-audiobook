@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Output directories
+output/
+
+# Input directories
+input/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+Icon?
+
+# Coverage
+coverage/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore audio files (optional, if you want to keep only code in git)
+*.mp3

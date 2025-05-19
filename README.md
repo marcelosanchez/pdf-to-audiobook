@@ -17,7 +17,7 @@ This project automates the process of converting PDF books into audiobooks. It e
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/marcelosanchez/pdf-to-audiobook
    cd pdf-to-audiobook
    ```
 2. Install dependencies:
